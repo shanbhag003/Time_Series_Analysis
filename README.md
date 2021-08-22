@@ -10,10 +10,10 @@ You can download the code and try it yourself. For practice, I have attached 2 m
 
 Tools used:
 
-  Python
-  FbProphet
+    Python
+    FbProphet
 
 To load fbprophet, run these 2 commands first in your terminal.
 
-  pip install pystan
-  conda install -c conda-forge fbprophet
+    pip install pystan
+    conda install -c conda-forge fbprophet
